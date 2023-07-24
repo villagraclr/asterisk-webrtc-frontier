@@ -1,0 +1,27 @@
+{
+  "name": "asterisk-webrtc-frontier",
+  "version": "1.0.0",
+  "description": "WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/villagraclr/asterisk-webrtc-frontier.git"
+  },
+  "author": "Full Stack SpA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/villagraclr/asterisk-webrtc-frontier/issues"
+  },
+  "homepage": "https://github.com/villagraclr/asterisk-webrtc-frontier#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^7.4.0",
+    "socket.io": "^4.7.1"
+  }
+}
